@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Experienced Web Developer with a demonstrated history of working in the web development industry. Hard-working person and inquisitive learner with high attention to details. Always trying to freshen with new technologies.
+Experienced Software Developer with a demonstrated history of working in the web development industry. Hard-working person and inquisitive learner with high attention to details. Always trying to freshen with new technologies.
 
 * 🌍  I'm based in Azerbaijan
 * 🖥️  See my portfolio at [faridaliyev.com](http://faridaliyev.com)
