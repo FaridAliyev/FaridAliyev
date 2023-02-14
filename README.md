@@ -9,7 +9,7 @@ Experienced Software Developer with a demonstrated history of working in the web
 * 🌍  I'm based in Azerbaijan
 * 🖥️  See my portfolio at [faridaliyev.com](http://faridaliyev.com)
 * ✉️  You can contact me at [faridaliyev31@gmail.com](mailto:faridaliyev31@gmail.com)
-* 🧠  I'm learning ReactJS
+* 🧠  I'm learning Java
 
 ### Skills
 
