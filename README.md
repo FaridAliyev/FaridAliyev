@@ -1,4 +1,4 @@
-Hi !([https://link-to-your-image.com](https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg))My name is Farid
+Hi 👋, My name is Farid
 =============================================================================================================================
 
 Software Engineer
