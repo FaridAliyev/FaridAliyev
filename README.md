@@ -7,7 +7,7 @@ Software Engineer
 Experienced Software Developer with a demonstrated history of working in the web development industry. Hard-working person and inquisitive learner with high attention to details. Always trying to freshen up with new technologies.
 
 * 🌍  I'm based in Azerbaijan
-* 🖥️  See my portfolio at [Portfolio](http://faridaliyev.com/)
+* 🖥️  See my portfolio [here](http://faridaliyev.com/)
 * ✉️  You can contact me at [faridaliyev31@gmail.com](mailto:faridaliyev31@gmail.com)
 * 🧠  I'm learning Java
 
